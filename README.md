@@ -23,7 +23,7 @@ API para análise de intervalos de prêmios entre produtores de filmes vencedores.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/luisfernandogdutra/movieapi
 cd seu-repo
 ```
 ### 2. Execute a aplicação
