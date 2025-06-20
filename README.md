@@ -6,9 +6,9 @@ API para análise de intervalos de prêmios entre produtores de filmes vencedores.
 
 ## Funcionalidades
 
-- Importação de filmes via CSV.
-- Cálculo do produtor com o **menor** e **maior** intervalo entre vitórias.
-- Endpoints REST para consulta desses dados.
+- Importação de filmes via CSV. (basta alterarmo arquivo src/main/resources/movielist.csv)
+- Cálculo do produtor com o **menor** e **maior** intervalo entre vitórias. (/movies/listMinAndMax)
+- Endpoints REST para consulta desses dados. (get/post/put/delete)
 - Testes de integração cobrindo os principais cenários.
 ---
 
